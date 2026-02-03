@@ -10,11 +10,16 @@ We focus on building **strong programming fundamentals, practical skills, and ca
 - C / C++
 - Java
 - Python
-- HTML, CSS, JavaScript
-- React & Node.js
+- HTML, CSS, JavaScript, jQuery
+- Bootstrap | Tailwind | Vue | Next
+- React | Node.js | Angular | Spring Boot | Django | Flask
 - PHP
-- Cloud & AWS (Foundations)
+- Data Structures
+- Mobile Apps (Android)
+- Cloud | AWS | DevOps
+- Databases (SqlServer) | MongoDB 
 - Machine Learning & Artificial Intelligence
+- RAG | AI Agents | LLM | NLP
 
 ---
 
@@ -54,6 +59,6 @@ This GitHub is designed to **support learning and showcase our teaching quality*
 ---
 
 📍 **Location:** Ferozepur, Punjab, India  
-📧 **Email:** techsquaresolutions@gmail.com  
+📧 **Email:** puneet@techsquaresolutions.com and tssfzr@gmail.com  
 🌐 **Website:** https://www.techsquaresolutions.com  
 📞 **Admissions Open – Contact us for a demo session**
